@@ -4,6 +4,10 @@
 
 Este projeto automatiza o processo de preenchimento de um formulário do Google Forms com informações extraídas de um site de imóveis. Ele utiliza as bibliotecas **BeautifulSoup** e **Selenium** para realizar as seguintes etapas:
 
+![Demo do Projeto](https://s5.ezgif.com/tmp/ezgif-5d29ed77564c3c.gif)
+
+
+
 1. **Extração de Dados**:
    - Acessa o site [Zillow Clone](https://appbrewery.github.io/Zillow-Clone/) para coletar informações sobre imóveis.
    - Extrai os seguintes dados:
