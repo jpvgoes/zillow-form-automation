@@ -4,7 +4,7 @@
 
 Este projeto automatiza o processo de preenchimento de um formulário do Google Forms com informações extraídas de um site de imóveis. Ele utiliza as bibliotecas **BeautifulSoup** e **Selenium** para realizar as seguintes etapas:
 
-![Demo do Projeto](https://s5.ezgif.com/tmp/ezgif-5d29ed77564c3c.gif)
+![Demo do Projeto](https://github.com/jpvgoes/zillow-form-automation/blob/main/Gravando2025-04-12140141-ezgif.com-optimize.gif)
 
 
 
